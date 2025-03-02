@@ -7,7 +7,7 @@ I'm a **frontend engineer based in Dublin, Ireland**, passionate about **buildin
 
 ## 💡 Tech Stack & Expertise  
 🔹 **Frontend:** React, Next.js, Astro, TypeScript, JavaScript  
-🔹 **Styling:** Tailwind CSS, CSS Modules, Styled Components
+🔹 **Styling:** Tailwind CSS, CSS Modules, Styled Components  
 🔹 **UI/UX:** Figma, Component-Driven Design, Accessibility Best Practices  
 🔹 **Performance:** Code Splitting, Lazy Loading, SSR, SSG  
 🔹 **Tools & Deployment:** Vercel, Netlify, Git, CI/CD  
