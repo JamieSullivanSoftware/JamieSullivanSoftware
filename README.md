@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Jamie Sullivan!  
-### **Frontend Software Engineer | Ireland**  
+### **Frontend Software Engineer | Dublin, Ireland**  
 
 I'm a **frontend engineer based in Dublin, Ireland**, passionate about **building fast, efficient, and highly optimized user interfaces**. I specialise in modern **JavaScript frameworks** like **React, Next.js, and Astro**, ensuring performance, scalability, and a seamless user experience. With a solid foundation in **UI/UX design**, I focus on creating web applications that are both visually engaging and technically robust.  
 
